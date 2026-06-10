@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi%20there,%20I'm%20Honghao&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
 
-<h2 align="center">💉 R 语言「重度依赖」患者 | 🧬 游走于现实与虚拟的生信魔法使</h2>
+<h2 align="center">💉 R 语言「重度依赖」患者 | 🧬 游走于现实与虚拟 </h2>
 
 ---
 
@@ -51,8 +51,17 @@
 ---
 
 ### 📡 建立精神链路 (Connect with me)
+
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
-  <a href="https://github.com/zhh-pedestrian"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:1011795220@qq.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-1011795220@qq.com-00A9E0?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://scholar.google.com/citations?user=WvT9qFkAAAAJ&hl=zh-CN" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  
+  <a href="https://github.com/zhh-pedestrian" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
