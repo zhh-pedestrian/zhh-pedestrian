@@ -1,16 +1,16 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Yomogi&size=30&pause=1000&color=F7651B&center=true&vCenter=true&width=800&lines=Ciallo%EF%BD%9E(%E2%88%A0%C2%B7%CF%89%3C+)%E2%8C%92%E2%98%86" alt="Typing SVG" />
+</a>
 
-<!--
-**zhh-pedestrian/zhh-pedestrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width=400 src="https://zhuang-github-readme-stats.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&bg_color=00000000&include_all_commits=true&hide_border=true&line_height=23&card_width=400&count_private=true" />
+  <img width=400 src="https://zhuang-github-readme-stats.vercel.app/api/top-langs?username=FuseFairy&layout=compact&langs_count=6&theme=tokyonight&bg_color=00000000&&hide_border=true&card_width=400&exclude_repo=github-readme-stats,AICUP_BoT-SORT-TEAM_5041,AICup_MCMOT_Baseline_Colab,FuseFairy.github.io,Tweetcord" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FuseFairy/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&bg_color=00000000&hide_border=true&radius=4.5" />
+</p>
