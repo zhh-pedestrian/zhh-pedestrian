@@ -1,16 +1,9 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Yomogi&size=30&pause=1000&color=F7651B&center=true&vCenter=true&width=800&lines=Ciallo%EF%BD%9E(%E2%88%A0%C2%B7%CF%89%3C+)%E2%8C%92%E2%98%86" alt="Typing SVG" />
-</a>
+<h1 align="center">Hi 👋, I'm Honghao</h1>
+<h3 align="center">R 语言 重度依赖 患者</h3>
 
-<p align="center">
-  <img width=400 src="https://zhuang-github-readme-stats.vercel.app/api?username=FuseFairy&show_icons=true&theme=tokyonight&bg_color=00000000&include_all_commits=true&hide_border=true&line_height=23&card_width=400&count_private=true" />
-  <img width=400 src="https://zhuang-github-readme-stats.vercel.app/api/top-langs?username=FuseFairy&layout=compact&langs_count=6&theme=tokyonight&bg_color=00000000&&hide_border=true&card_width=400&exclude_repo=github-readme-stats,AICUP_BoT-SORT-TEAM_5041,AICup_MCMOT_Baseline_Colab,FuseFairy.github.io,Tweetcord" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FuseFairy/github-profile-repo-analytics/output/generated/traffic_chart.svg" alt="Repos traffic stats" />
-</p>
-
-<p align="center">
-  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=FuseFairy&theme=tokyo-night&bg_color=00000000&hide_border=true&radius=4.5" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
